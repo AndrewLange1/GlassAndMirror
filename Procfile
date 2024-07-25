@@ -1,0 +1,1 @@
+web: cd glassandmirror && npm start

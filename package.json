@@ -1,0 +1,10 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "scripts": {
+    "heroku-postbuild": "cd glassandmirror && npm install && npm run build"
+  },
+  "dependencies": {
+    "swiper": "^11.1.7"
+  }
+}
